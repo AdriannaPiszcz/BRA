@@ -1,0 +1,123 @@
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\BRA_apk.dll
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\BRA_apk.pdb
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\resources.pri
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\AppxManifest.xml
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\BRA_apk.build.appxrecipe
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\AppManifest.xaml
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\Bin\Debug\BRA_apk_Debug_AnyCPU.xap
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\App.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\MainPage.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\Mapa.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\oProgramie.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\Stacje.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\Ulubione.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\wPobliżu.g.cs
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\BRA_apk.g.resources
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\BRA_apk.Resources.AppResources.resources
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\BRA_apk.csproj.GenerateResource.Cache
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\BRA_apk.dll
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\BRA_apk.pdb
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\priconfig.xml
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\priconfig.xml.intermediate
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\layout.resfiles
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\layout.resfiles.intermediate
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\resources.resfiles
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\resources.resfiles.intermediate
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\pri.resfiles
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\pri.resfiles.intermediate
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\qualifiers.txt
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\ProjectArchitectures.txt
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\MDILProjectFiles.xml
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\XapCacheFile.xml
+C:\Users\adria\Desktop\BRA_apk\BRA_apk\obj\Debug\zmieńKolor.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\BRA_apk.dll
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\BRA_apk.pdb
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\resources.pri
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\AppxManifest.xml
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\BRA_apk.build.appxrecipe
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\AppManifest.xaml
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\Bin\Debug\BRA_apk_Debug_AnyCPU.xap
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\App.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\MainPage.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\Mapa.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\zmieńKolor.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\oProgramie.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\Stacje.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\Ulubione.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\wPobliżu.g.cs
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\BRA_apk.g.resources
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\BRA_apk.Resources.AppResources.resources
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\BRA_apk.csproj.GenerateResource.Cache
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\BRA_apk.dll
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\BRA_apk.pdb
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\priconfig.xml
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\priconfig.xml.intermediate
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\layout.resfiles
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\layout.resfiles.intermediate
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\resources.resfiles
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\resources.resfiles.intermediate
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\pri.resfiles
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\pri.resfiles.intermediate
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\qualifiers.txt
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\ProjectArchitectures.txt
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\MDILProjectFiles.xml
+C:\Users\Złomek\Desktop\BRA\BRA v3\BRA_apk\BRA_apk\obj\Debug\XapCacheFile.xml
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\BRA_apk.dll
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\BRA_apk.pdb
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\resources.pri
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\AppxManifest.xml
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\BRA_apk.build.appxrecipe
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\AppManifest.xaml
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\Bin\Debug\BRA_apk_Debug_AnyCPU.xap
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\App.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\MainPage.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\Mapa.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\zmieńKolor.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\oProgramie.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\Stacje.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\Ulubione.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\wPobliżu.g.cs
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\BRA_apk.g.resources
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\BRA_apk.Resources.AppResources.resources
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\BRA_apk.csproj.GenerateResource.Cache
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\BRA_apk.dll
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\BRA_apk.pdb
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\priconfig.xml
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\priconfig.xml.intermediate
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\layout.resfiles
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\layout.resfiles.intermediate
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\resources.resfiles
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\resources.resfiles.intermediate
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\pri.resfiles
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\pri.resfiles.intermediate
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\qualifiers.txt
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\ProjectArchitectures.txt
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\MDILProjectFiles.xml
+C:\Users\adria\Desktop\BRA v4 chujowe ale dziala\BRA_apk\obj\Debug\XapCacheFile.xml

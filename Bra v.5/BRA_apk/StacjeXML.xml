@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bra>
+  <stacja>
+    <nazwaStacji>Rondo Grunwaldzkie</nazwaStacji>
+    <x>53.125309</x>
+    <y>17.987210</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Centrum Handlowe Rondo</nazwa>
+        <x>53.123879</x>
+        <y>17.984926</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Zakład Ubezpieczeń Społecznych - Oddział</nazwa>
+        <x>53.124932</x>
+        <y>17.989126</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Zespół Szkół Mechanicznych nr 1 w Bydgoszczy</nazwa>
+        <x>53.125110</x>
+        <y>17.987122</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Rondo Jagiellonów</nazwaStacji>
+    <x>53.123889</x>
+    <y>18.007028</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Collegium Medicum</nazwa>
+        <x>53.124553</x>
+        <y>18.008049</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Urząd Marszałkowski Województwa Kujawsko - Pomorskiego</nazwa>
+        <x>53.124018</x>
+        <y>18.006270</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>City Hotel Bydgoszcz</nazwa>
+        <x>53.124504</x>
+        <y>18.009302</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Wojska Polskiego / Planu 6-letniego</nazwaStacji>
+    <x>53.106515</x>
+    <y>18.050036</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Szkoła Podstawowa nr 46</nazwa>
+        <x>53.105061</x>
+        <y>18.048543</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Drugi Urząd Skarbowy</nazwa>
+        <x>53.107024</x>
+        <y>18.043433</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Kompleks handlowy Kapuściska</nazwa>
+        <x>53.107188</x>
+        <y>18.049281</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Plac Wolności </nazwaStacji>
+    <x>53.126880</x>
+    <y>18.004758</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Kościół pw. św. Apostołów Piotra i Pawła</nazwa>
+        <x>53.126676</x>
+        <y>18.005101</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Fontanna Potop</nazwa>
+        <x>53.126240</x>
+        <y>18.006002</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>I Liceum Ogólnokształcące w Bydgoszczy</nazwa>
+        <x>53.127196</x>
+        <y>18.007198</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Dworzec PKP</nazwaStacji>
+    <x>53.134360</x>
+    <y>17.992097</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>PESA Bydgoszcz SA</nazwa>
+        <x>53.136519</x>
+        <y>17.992363</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Kujawsko-Pomorski Oddział Wojewódzki NFZ</nazwa>
+        <x>53.134592</x>
+        <y>17.995934</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Technikum Kolejowe</nazwa>
+        <x>53.133415</x>
+        <y>17.991994</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Dworzec PKS</nazwaStacji>
+    <x>53.122819</x>
+    <y>18.018049</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Focus Mall Bydgoszcz</nazwa>
+        <x>53.124338</x>
+        <y>18.017836</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Zespół Szkół nr 10</nazwa>
+        <x>53.123995</x>
+        <y>18.022452</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Pałac Młodzieży w Bydgoszczy</nazwa>
+        <x>53.123514</x>
+        <y>18.011152</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Wyspa Młyńska</nazwaStacji>
+    <x>53.122182</x>
+    <y>17.997293</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Ratusz</nazwa>
+        <x>53.122205</x>
+        <y>17.998958</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Muzeum Mydła i Historii Brudu</nazwa>
+        <x>53.121483</x>
+        <y>17.997616</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Muzeum Okręgowe im. Leona Wyczółkowskiego</nazwa>
+        <x>53.123046</x>
+        <y>17.997775</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Plac Teatralny</nazwaStacji>
+    <x>53.124073</x>
+    <y>18.001864</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Kościół rektorski pw. Wniebowzięcia NMP</nazwa>
+        <x>53.124314</x>
+        <y>18.002924</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Polskie Sieci Elektroenergetyczne </nazwa>
+        <x>53.124674</x>
+        <y>18.000397</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Muzeum Farmacji</nazwa>
+        <x>53.124938</x>
+        <y>18.002826</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Gdańska / Stadion</nazwaStacji>
+    <x>53.145495</x>
+    <y>18.023007</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Agencja Mienia Wojskowego</nazwa>
+        <x>53.147865</x>
+        <y>18.022394</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Zespół Szkół Ogólnokształcących nr 7 </nazwa>
+        <x>53.142138</x>
+        <y>18.023580</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Stadion Zawisza</nazwa>
+        <x>53.145563</x>
+        <y>18.020611</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Myślęcinek</nazwaStacji>
+    <x>53.161811</x>
+    <y>18.036941</y>
+
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Ogród Zoologiczny w Bydgoszczy</nazwa>
+        <x>53.162702</x>
+        <y>18.032359</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Wakepark Bydgoszcz</nazwa>
+        <x>53.162913</x>
+        <y>18.028882</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Hotel Pałac</nazwa>
+        <x>53.167423</x>
+        <y>18.040131</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Chodkiewicza / UKW </nazwaStacji>
+    <x>53.131389</x>
+    <y>18.020916</y>
+  </stacja>
+  
+  <wPobliżu>
+    
+    <obiekt>
+      <nazwa>Ogród Botaniczny UKW</nazwa>
+      <x>53.131038</x>
+      <y>18.017059</y>
+    </obiekt>
+    <obiekt>
+      <nazwa>AS Market</nazwa>
+      <x>53.133699</x>
+      <y>18.018826</y>
+    </obiekt>
+  </wPobliżu>
+  <stacja>
+    <nazwaStacji>Sułkowskiego / Czerkaska </nazwaStacji>
+    <x>53.140076</x>
+    <y>18.028981</y>
+    <wPobliżu>
+      <obiekt>
+        <nazwa>Ogród Zoologiczny w Bydgoszczy</nazwa>
+        <x>53.162702</x>
+        <y>18.032359</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Wakepark Bydgoszcz</nazwa>
+        <x>53.162913</x>
+        <y>18.028882</y>
+      </obiekt>
+      <obiekt>
+        <nazwa>Hotel Pałac</nazwa>
+        <x>53.167423</x>
+        <y>18.040131</y>
+      </obiekt>
+    </wPobliżu>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Skłodowskiej - Curie / Jurasza</nazwaStacji>
+    <x>53.126244</x>
+    <y>18.029218</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Skłodowskiej - Curie / Bałtycka</nazwaStacji>
+    <x>53.126310</x>
+    <y>18.047575</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Szubińska / Połtyna</nazwaStacji>
+    <x>53.119445</x>
+    <y>17.978067</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Solskiego / Ugory</nazwaStacji>
+    <x>53.113697</x>
+    <y>17.999647</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Wojska Polskiego / Ujejskiego</nazwaStacji>
+    <x>53.113345</x>
+    <y>18.024849</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Rondo Fordońskie</nazwaStacji>
+    <x>53.120925</x>
+    <y>18.035639</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Plac Kościeleckich</nazwaStacji>
+    <x>53.120712</x>
+    <y>18.003814</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Nowy Rynek</nazwaStacji>
+    <x>53.120013</x>
+    <y>17.998395</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Focha / Królowej Jadwigi</nazwaStacji>
+    <x>53.126036</x>
+    <y>17.991636</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Szubińska / Żwirki i Wigury</nazwaStacji>
+    <x>53.116176</x>
+    <y>17.967270</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Mickiewicza</nazwaStacji>
+    <x>53.131246</x>
+    <y>18.011820</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Rondo Wielkopolskie</nazwaStacji>
+    <x>53.128858</x>
+    <y>18.022194</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Dworcowa / Marcinkowskiego</nazwaStacji>
+    <x>53.128223</x>
+    <y>17.998141</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Wojska Polskiego / Magnuszewska</nazwaStacji>
+    <x>53.108673</x>
+    <y>18.034431</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Nakielska / Bronikowskiego</nazwaStacji>
+    <x>53.130589</x>
+    <y>17.952110</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Kamienna / Fordońska</nazwaStacji>
+    <x>53.127283</x>
+    <y>18.081358</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Wojska Polskiego / Trasa Uniwersytecka</nazwaStacji>
+    <x>53.115016</x>
+    <y>18.016671</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Solskiego / Skorupki</nazwaStacji>
+    <x>53.112775</x>
+    <y>17.984429</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Stary Rynek</nazwaStacji>
+    <x>53.122150</x>
+    <y>18.000946</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Wyszyńskiego / Powstańców Wlkp.</nazwaStacji>
+    <x>53.129943</x>
+    <y>18.037513</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Powstańców Warszawy / Powstania Listopadowego</nazwaStacji>
+    <x>53.143416</x>
+    <y>18.011425</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Bocianowo / Kaszubska (Pl.Kościuszki)</nazwaStacji>
+    <x>53.135102</x>
+    <y>18.005152</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Glinki / Białostocka</nazwaStacji>
+    <x>53.099523</x>
+    <y>18.035982</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Grunwaldzka / Atos</nazwaStacji>
+    <x>53.133210</x>
+    <y>17.969275</y>
+  </stacja>
+  <stacja>
+    <nazwaStacji>Skandynawska / IKEA</nazwaStacji>
+    <x>53.131240</x>
+    <y>18.119786</y>
+  </stacja>
+</bra>
